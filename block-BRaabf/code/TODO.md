@@ -1,4 +1,4 @@
-## Create a counter application
+## Create a counter application.
 
 - Create a counter application with the initial counter value to be `0`
 - It will have a steps functionality
