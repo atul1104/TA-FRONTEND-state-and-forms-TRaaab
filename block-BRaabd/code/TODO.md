@@ -1,4 +1,4 @@
-## Show Image
+## Show Image.
 
 Take a look at the UI of the App:
 
