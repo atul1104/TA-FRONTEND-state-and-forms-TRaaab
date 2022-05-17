@@ -1,4 +1,4 @@
-## Accordion FAQ
+## Accordion FAQ.
 
 Take a look at the UI of the App:
 
