@@ -1,4 +1,4 @@
-#### Food Menu App
+#### Food Menu App.
 
 ![Food Menu](./assets/food-menu.gif)
 
