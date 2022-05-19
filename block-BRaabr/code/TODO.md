@@ -1,4 +1,4 @@
-## Multiple Input Elements
+## Multiple Input Elements.
 
 Create a multiple input with all the different input types.
 
