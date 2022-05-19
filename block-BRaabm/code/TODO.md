@@ -1,4 +1,4 @@
-## Movie App
+## Movie App.
 
 Create a movie list app
 
