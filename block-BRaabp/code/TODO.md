@@ -4,7 +4,7 @@
 - Using input take the input from the user
 - Using font slider take the input for the font size
 - Display the text in 10 fonts in different cards
-- Each card can will sho the text and name of the font
+- Each card can will show the text and name of the font
 
 ## Demo
 
