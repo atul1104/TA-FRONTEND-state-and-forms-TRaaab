@@ -1,4 +1,4 @@
-## Shopping Cart Application
+## Shopping Cart Application.
 
 You will find all the information you will need to work on this project in the `src` folder.
 
