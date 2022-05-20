@@ -29,7 +29,8 @@ class Validation extends React.Component {
 
     switch (name) {
       case 'username':
-        error.username = value.length > 8 ? '' : 'You need to enter at-least 8';
+        error.username =
+          value.length > 10 ? '' : 'You need to enter at-least 10';
         break;
       default:
         break;
